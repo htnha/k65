@@ -41,11 +41,6 @@ public:
 
     }
 };
-int main(){
-    Sach sach1("123","Sach Van", "Nguyen Van A");
-    sach1.hienThiThongTin();
-    sach1.setTenSach("Sach Toan");
-    sach1.hienThiThongTin();
-}
+
 
 
