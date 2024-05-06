@@ -1,0 +1,3 @@
+/Users/nha/CLionProjects/k65/cmake-build-debug/CMakeFiles/k65.dir
+/Users/nha/CLionProjects/k65/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/nha/CLionProjects/k65/cmake-build-debug/CMakeFiles/rebuild_cache.dir
